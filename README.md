@@ -2,7 +2,7 @@
 
 **Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference**<br>
 Hyunseo Koh<sup>\*</sup>, Dahyun Kim<sup>\*</sup>, Jung-Woo Ha, Jonghyun Choi<br>
-ICLR 2022 [[ArXiv](https://arxiv.org/pdf/2110.10031.pdf)]<br>
+ICLR 2022 [[Paper](https://openreview.net/pdf?id=nrGGfMbY_qK)]<br>
 (\* indicates equal contribution)
 
 ## Overview
