@@ -1,4 +1,4 @@
-# The Official Implementation of CLIB (Continual Learning for i-Blurry)
+# Official Implementation of CLIB (Continual Learning for i-Blurry)
 
 **Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference**<br>
 Hyunseo Koh<sup>\*</sup>, Dahyun Kim<sup>\*</sup>, Jung-Woo Ha, Jonghyun Choi<br>
